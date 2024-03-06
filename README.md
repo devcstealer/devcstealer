@@ -4,7 +4,6 @@
 
 <div>
  <div>
-  <img src="./assets/images/herobanner.png" align="left">
   <p align="right">
 
    &nbsp;
